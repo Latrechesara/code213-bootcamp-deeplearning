@@ -1,4 +1,4 @@
-# 🚀 code213 – Deep Learning & NLP Bootcamp  
+# code213 – Deep Learning & NLP Bootcamp  
 **From Neurons to AI Agents (2026 AI Stack)**
 
 Welcome to the **advanced stage** of the Data Science Bootcamp.  
@@ -6,9 +6,9 @@ This program explores the **evolution of Artificial Intelligence**, starting fro
 
 ---
 
-## 🧭 Module Journey
+##  Module Journey
 
-### 1️⃣ Foundations — *From Scratch*
+###  Foundations — *From Scratch*
 Before relying on frameworks, we master the mathematical and algorithmic foundations.
 
 | Topic | Description |
@@ -19,7 +19,7 @@ Before relying on frameworks, we master the mathematical and algorithmic foundat
 
 ---
 
-### 2️⃣ Computer Vision — *The Spatial Revolution*
+###  Computer Vision — *The Spatial Revolution*
 Understanding how machines learn to see and reason spatially.
 
 | Area | Content |
@@ -32,7 +32,7 @@ Understanding how machines learn to see and reason spatially.
 
 ---
 
-### 3️⃣ NLP — *The Road to ChatGPT*
+###  NLP — *The Road to ChatGPT*
 From sequence models to attention-based intelligence.
 
 | Topic | Description |
@@ -43,7 +43,7 @@ From sequence models to attention-based intelligence.
 
 ---
 
-### 4️⃣ AI Engineering & Agentic Workflows (2026 Stack)
+###  AI Engineering & Agentic Workflows (2026 Stack)
 
 | Technology | Purpose |
 |---------|---------|
@@ -69,11 +69,11 @@ From sequence models to attention-based intelligence.
 
 ## ⚙️ Requirements & Setup
 
-### 🔧 Prerequisites
+###  Prerequisites
 - GPU-enabled environment (**CUDA recommended**)
 - Python ≥ 3.10
 
-### 📦 Installation
+###  Installation
 
 ```bash
 # Clone the repository
