@@ -1,91 +1,87 @@
-# code213-bootcamp-deeplearning
-Deep Learning & NLP: From Neurons to AI Agents
-Welcome to the advanced stage of the Data Science Bootcamp. This module tracks the history of AI, implementing architectures from scratch before mastering the industrial tools of 2026, like YOLOv8, Transformers, and Agentic Workflows.
+# 🚀 code213 – Deep Learning & NLP Bootcamp  
+**From Neurons to AI Agents (2026 Stack)**
 
-Module Journey
-1. The Foundations (From Scratch)
-Before using libraries, we master the mechanics:
+Welcome to the **advanced stage** of the Data Science Bootcamp.  
+This module explores the **evolution of Artificial Intelligence**, starting from first-principles implementations and progressing toward **industrial-grade AI systems** used in 2026 — including **YOLOv8, Transformers, RAG, and Agentic Workflows**.
 
-The MLP (Multi-Layer Perceptron): Implementing backpropagation and gradient descent using only NumPy.
+---
 
-Optimization Math: Solving constrained optimization problems using Lagrange Multipliers for better model regularisation.
+## 🧭 Module Journey
 
-Financial Intelligence: Building an ANN-based Fraud Detection system to identify anomalies in high-frequency financial transactions.
+### 1️⃣ Foundations — *From Scratch*
+Before using high-level libraries, we master the mechanics.
 
-2. Computer Vision: The Spatial Revolution
-Trace the evolution of how machines "see":
+| Topic | Description |
+|-----|------------|
+| **MLP (Multi-Layer Perceptron)** | Implement backpropagation and gradient descent using **NumPy only** |
+| **Optimization Mathematics** | Constrained optimization with **Lagrange Multipliers** for regularization |
+| **Financial Intelligence** | ANN-based **Fraud Detection System** for high-frequency transactions |
 
-CNN Emergence: Why convolutions dominate spatial data.
+---
 
-Hall of Fame Architectures: Deep dive into AlexNet, VGG, and ResNet (Residual Learning).
+### 2️⃣ Computer Vision — *The Spatial Revolution*
+Understanding how machines learn to *see*.
 
-Modern Vision:
+| Area | Content |
+|----|--------|
+| **CNN Emergence** | Why convolutions dominate spatial data |
+| **Hall of Fame Architectures** | AlexNet, VGG, ResNet (Residual Learning) |
+| **YOLOv8 Mastery** | Real-time Object Detection & Instance Segmentation |
+| **Vision Transformers (ViT)** | Attention mechanisms applied to image patches |
+| **OpenCV Integration** | Deploying models on real-time camera streams |
 
-YOLOv8 Mastery: Real-time Object Detection and Instance Segmentation.
+🎯 **Capstone Project**  
+**Brain Tumor Detector** using **Transfer Learning on MRI scans**
 
-Vision Transformers (ViT): Applying "Attention" to image patches.
+---
 
-OpenCV: Integrating models into real-time camera streams.
+### 3️⃣ NLP — *The Road to ChatGPT*
+From sequential models to attention-based intelligence.
 
-Capstone: Brain Tumor Detector using Transfer Learning on MRI scans.
+| Topic | Description |
+|-----|------------|
+| **Recurrent Architectures** | RNN, Bi-RNN, LSTM, GRU |
+| **Transformer Architecture** | Implementing **Self-Attention** from scratch |
+| **LLM Fine-Tuning** | Task-specific training (classification, sentiment, QA) |
 
-3. NLP: The Journey to ChatGPT
-The roadmap of sequential intelligence:
+---
 
-Recurrent Architectures: From standard RNNs and Bi-Directional RNNs (BRNN) to LSTMs and GRUs.
+### 4️⃣ AI Engineering & Agentic Workflows (2026 Stack)
+Modern AI systems go beyond models.
 
-The Transformer: Implementing the Attention Mechanism to understand how models like ChatGPT contextually weigh information.
+| Technology | Use Case |
+|---------|---------|
+| **Vector Databases** | Semantic Search with Pinecone / ChromaDB |
+| **RAG (Retrieval-Augmented Generation)** | Grounding LLMs in private data |
+| **Agentic AI** | Autonomous agents using LangChain & Claude 3.5 |
+| **MCP (Model Context Protocol)** | FastMCP server connecting LLMs to MySQL |
 
-LLM Fine-tuning: Training models for specific linguistic tasks and sentiments.
+---
 
+## 🛠️ Key Capstone Projects
 
-Shutterstock
-Explorer
-4. AI Engineering & Agentic Workflows
-The 2026 "AI Engineer" stack:
+| Project | Description |
+|------|------------|
+| 🏥 **Brain Tumor Detector** | Medical imaging with CNNs on MRI data |
+| 💳 **Fraud Detection System** | Real-time ANN-based financial anomaly detection |
+| 🍴 **Restaurant RAG Bot** | Semantic Search + Sentiment-Aware dish recommendations |
+| 📦 **Smart Inventory Manager** | Agentic AI with FastMCP & SQL for warehouse automation |
 
-Vector Databases: Building Semantic Search systems (Pinecone/ChromaDB) for high-dimensional data retrieval.
+---
 
-RAG (Retrieval-Augmented Generation): Grounding LLMs in private data to prevent hallucinations.
+## ⚙️ Requirements & Setup
 
-Agentic AI: Using Claude 3.5 and LangChain to build autonomous agents.
+### 🔧 Prerequisites
+- GPU-enabled environment (**CUDA recommended**)
+- Python 3.10+
 
-MCP (Model Context Protocol): Creating a FastMCP server to connect your AI directly to MySQL databases.
+### 📦 Installation
 
-🛠️ Key Capstone Projects
-🏥 Brain Tumor Detector: A medical imaging tool using specialized CNNs.
-
-💳 Fraud Detection System: An ANN architecture for real-time financial security.
-
-🍴 Restaurant RAG Bot: A chatbot that uses Semantic Search and Sentiment Analysis to recommend dishes based on customer mood.
-
-📦 Smart Inventory Manager: An Agentic System using FastMCP and SQL to autonomously track and manage warehouse stock.
-
-📦 Requirements & Setup
-Ensure you have a GPU-enabled environment (CUDA recommended).
-
-Bash
+```bash
 # Clone the repository
 git clone https://github.com/your-repo/dl-nlp-bootcamp.git
+cd dl-nlp-bootcamp
 
 # Install the 2026 AI Stack
 pip install -r requirements.txt
-Key Libraries:
 
-Core: torch, tensorflow, ultralytics (YOLOv8).
-
-AI Engineering: langchain, mcp, fastmcp, pymysql.
-
-NLP: transformers, sentence-transformers.
-
-🤝 Contribution
-If you find a bug in the Transformer implementation or have an idea for a new Agentic tool:
-
-Open an Issue for architectural discussions.
-
-Submit a Pull Request for performance optimizations.
-
-📜 License & Credits
-Licensed under Creative Commons Attribution 4.0. Code examples are Apache 2.0.
-
-Special thanks to the open-source community for the tools that make this bootcamp possible.
