@@ -1,0 +1,8 @@
+pandas
+numpy
+python-dotenv
+gradio
+langchain
+chromadb
+sentence-transformers
+transformers
