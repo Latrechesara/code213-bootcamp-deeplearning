@@ -1,0 +1,76 @@
+/* Glassmorphism Inputs */
+.bg-dark-glass {
+    background-color: rgba(247, 147, 247, 0.07) !important; /* soft purple tint */
+    border: 1px solid rgba(248, 237, 237, 0.15) !important; /* light grey border */
+    backdrop-filter: blur(10px);
+    color: #720606 !important; /* light grey text */
+    transition: all 0.3s ease;
+}
+
+.bg-dark-glass:focus {
+    background-color: rgba(80, 25, 3, 0.08) !important; /* subtle focus */
+    border-color: #2bca25 !important; /* vivid purple on focus */
+    box-shadow: 0 0 10px rgba(238, 130, 116, 0.4); /* purple glow */
+}
+
+/* Modern Footer Gradient & Icon */
+.modern-footer {
+    background: linear-gradient(90deg, #040305, #0b0413, #18171a); /* dark purple gradient */
+    border-top: 1px solid rgba(223, 127, 218, 0.1); /* subtle grey line */
+    padding: 15px 0;
+}
+
+.icon-btn {
+    font-size: 1.6rem;
+    color: rgba(241, 110, 230, 0.5); /* soft grey */
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.icon-btn:hover {
+    color: #9b59b6; /* bright purple hover */
+    transform: translateY(-5px) scale(1.2);
+    filter: drop-shadow(0 0 10px rgba(155, 89, 182, 0.8)); /* purple glow */
+}
+
+/* Container Background */
+.welcome-container {
+    padding: 3%;
+    background: linear-gradient(135deg, #8062db 0%, #9263df 100%); /* dark purple-black gradient */
+    min-height: 100vh;
+}
+
+/* Prediction Result Card */
+.result-display {
+    background: rgba(209, 37, 209, 0.05); /* subtle purple glass */
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(200, 200, 200, 0.1); /* soft grey border */
+    border-radius: 20px;
+    transition: all 0.5s ease;
+}
+
+/* Modern Purple Table */
+.modern-table {
+    width: 100%;
+    background: rgba(70, 27, 107, 0.15); /* light purple glass */
+    backdrop-filter: blur(15px);
+    border: 1px solid rgba(21, 6, 31, 0.2); /* purple border */
+    border-radius: 15px;
+}
+
+.modern-table th, .modern-table td {
+    padding: 12px 15px;
+    border-bottom: 1px solid rgba(244, 242, 245, 0.2); /* subtle purple line */
+}
+
+.modern-table th {
+    color: #b894d1; /* light purple headers */
+    font-weight: 600;
+}
+
+.modern-table td {
+    color: #d8a6f1; /* slightly brighter purple for text */
+}
+
+.modern-table tr:hover td {
+    background: rgba(216, 150, 241, 0.25); /* subtle purple hover */
+}
