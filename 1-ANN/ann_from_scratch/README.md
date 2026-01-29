@@ -1,4 +1,4 @@
-# 🧠 Neural Networks From Scratch — Two Complementary Implementations
+#  Neural Networks From Scratch — Two Complementary Implementations
 
 This folder contains **two independent implementations of a Multi-Layer Perceptron (MLP) built entirely from scratch**, without using deep learning frameworks such as PyTorch or TensorFlow.
 
@@ -6,7 +6,7 @@ Although both implementations solve similar problems, they come from **two diffe
 
 ---
 
-## 📘 Implementation 1  
+##  Implementation 1  
 ### Deep Learning Specialization — Andrew Ng (Coursera)
 
 **Files**
@@ -114,3 +114,4 @@ These implementations are used **strictly for educational purposes**.
 ---
 
 > *Understanding neural networks from scratch is the fastest path to mastering modern AI frameworks.*
+
