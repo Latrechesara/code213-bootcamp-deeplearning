@@ -1,3 +1,0 @@
-chainlit
-langchain
-huggingface_hub
