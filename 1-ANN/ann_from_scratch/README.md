@@ -44,7 +44,7 @@ It teaches you:
 
 ---
 
-## 📕 Implementation 2  
+## Implementation 2  
 ### *Hands-On Deep Learning Algorithms with Python*
 
 **Files**
@@ -75,7 +75,7 @@ This implementation helps you understand:
 
 ---
 
-## 🔍 Why Keep Both Implementations?
+##  Why Keep Both Implementations?
 
 | Andrew Ng Version | Book Version |
 |------------------|-------------|
@@ -114,4 +114,5 @@ These implementations are used **strictly for educational purposes**.
 ---
 
 > *Understanding neural networks from scratch is the fastest path to mastering modern AI frameworks.*
+
 
