@@ -2,7 +2,7 @@
 **From Neurons to AI Agents **
 
 Welcome to the **advanced stage** of the Data Science Bootcamp.  
-This program explores the **evolution of Artificial Intelligence**, starting from first-principles implementations and advancing toward **production-grade AI systems** used in 2026 — including **YOLOv8, Transformers, Retrieval-Augmented Generation (RAG), and Agentic Workflows**.
+This program explores the **evolution of Artificial Intelligence**, starting from first-principles implementations and advancing toward **production-grade AI systems**  — including **YOLOv8, Transformers, Retrieval-Augmented Generation (RAG), and Agentic Workflows**.
 
 ---
 
